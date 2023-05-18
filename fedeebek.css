@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body{
+background: #665c8b;
+font-family: 'Lato', sans-serif;
+}
+header{
+    background: #111;
+    color: white;
+    font-size: 24px;
+    padding: 20px 0;
+    padding-left: 40px;
+}
+#puts{
+color: white;
+
+}
+#oi{
+text-align: center;
+padding-left: 200px;
+color: white;
+}
+#oii{
+    text-align: right;
+    padding-left: 200px;
+    color: white;
+}
+#ei{
+    padding-left: 550px;
+    color: white;
+}
+#eii{
+    padding-left: 50px;
+    color: white;
+}
+#eiii{
+    padding-left: 50px;
+    color: white;
+
+}
+#ops{
+    padding-left: 50px;
+    color: white;
+}
+.wrap{
+    width: 800px;
+    height: 700px;
+    margin: 30px auto;
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    color:#111;
+    text-align: center;
+    border-bottom: 2px solid white;
+
+}
+table{
+    font-size: 20px;
+
+}
+td{
+    padding: 10px 20px 0px 0px;
+}
+.txt{
+    width: 350px;
+    height: 50px;
+    border-radius: 8px;
+}
+.txtrea{
+    width: 830px;
+    height: 150px;
+    border-radius: 8px;
+}
+.ai{
+    width: 120px;
+    height: 40px;
+    border-radius: 8px;
+    color: white;
+    background-color: #111;
+
+}
+.local{
+    padding-left: 250px;
+}
+.como{
+    padding-left: 11px;
+}
